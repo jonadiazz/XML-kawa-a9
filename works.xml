@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WORK>
+	<works>
+		<name>Anderson, Susan L</name>
+		<company>Mutual of Omaha</company>
+		<salary>48000</salary>
+	</works>
+	<works>
+		<name>Brady, Dan L</name>
+		<company>FDR</company>
+		<salary>42000</salary>
+	</works>
+	<works>
+		<name>Chen, Peter K</name>
+		<company>FDR</company>
+		<salary>53000</salary>
+	</works>
+	<works>
+		<name>Clemson, Ann M</name>
+		<company>First Bank</company>
+		<salary>39000</salary>
+	</works>
+	<works>
+		<name>Dale, Mary K</name>
+		<company>Mutual of Omaha</company>
+		<salary>58000</salary>
+	</works>
+	<works>
+		<name>Gill, Mary L</name>
+		<company>Union Pacific</company>
+		<salary>48700</salary>
+	</works>
+	<works>
+		<name>Harrison, Susan M</name>
+		<company>Union Pacific</company>
+		<salary>54320</salary>
+	</works>
+	<works>
+		<name>Jackson, Kim A</name>
+		<company>FDR</company>
+		<salary>68000</salary>
+	</works>
+	<works>
+		<name>Jason, Pat M</name>
+		<company>FDR</company>
+		<salary>83000</salary>
+	</works>
+	<works>
+		<name>Kumar, Paul T</name>
+		<company>FDR</company>
+		<salary>44000</salary>
+	</works>
+</WORK>
